@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_bg">#539D7A</color>
+    <color name="btn_danger">#d45050</color>
+    <color name="status_processing">#6d737a</color>
+    <color name="status_adopted">#2a7cd4</color>
+</resources>

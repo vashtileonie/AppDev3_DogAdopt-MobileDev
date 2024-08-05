@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DogAdopt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#539D7A</item>
+        <item name="colorPrimaryContainer">#539D7A</item>
+    </style>
+    <style name="PseudoStyle">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#539D7A</item>
+        <item name="android:fontFamily">@font/poppinsextrabold</item>
+    </style>
+    <style name="Theme.DogAdopt" parent="Base.Theme.DogAdopt" />
+</resources>
